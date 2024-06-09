@@ -34,6 +34,34 @@ pytest
 ## Contributing
 Contributions are welcome! Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests.
 
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests.
+
+
+### Upload to GitHub
+
+1. **Initialize a Git Repository**:
+    ```bash
+    git init
+    ```
+
+2. **Add Files and Commit**:
+    ```bash
+    git add .
+    git commit -m "Initial commit"
+    ```
+
+3. **Create a New Repository on GitHub**:
+    - Go to GitHub and create a new repository.
+
+4. **Add Remote and Push**:
+    ```bash
+    git remote add origin https://github.com/yourusername/autonomous_spacecraft_navigation.git
+    git push -u origin main
+    ```
+
+This will make your project more complete, professional, and easier for others to contribute to.
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
